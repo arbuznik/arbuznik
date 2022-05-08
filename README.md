@@ -1,5 +1,9 @@
 👋 by 🍉
 
+Frontend dev. HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, SASS.
+
+![](https://www.codewars.com/users/arbuznik/badges/micro)
+
 ## My last projects:
 
 ### Bookshelf
