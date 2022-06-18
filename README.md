@@ -1,6 +1,6 @@
 👋 by 🍉
 
-Frontend dev. HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, SASS.
+Frontend dev. HTML, CSS, JavaScript, TypeScript, React, Redux, Node.js, MongoDB, SASS, Jest.
 
 ![](https://www.codewars.com/users/arbuznik/badges/micro)
 
