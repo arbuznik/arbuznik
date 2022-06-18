@@ -4,7 +4,10 @@ Frontend dev. HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, SASS.
 
 ![](https://www.codewars.com/users/arbuznik/badges/micro)
 
-## My last projects:
+[Leetcode](https://leetcode.com/arbuznik)
+
+## My last public projects:
+_(private projects include task tracker and training platform for human rescue specialists)_
 
 ### Bookshelf
 Search and explore vast books catalog, powered by Google books.  https://arbuznik-bookshelf.netlify.app/
