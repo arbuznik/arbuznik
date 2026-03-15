@@ -1,4 +1,4 @@
-**ADL-consultant** _private_ Corporate AI RAG knowledge chat bot
+**AI-consultant** _private_ Corporate AI RAG knowledge chat bot
 
 **[CHGK-bot](https://github.com/arbuznik/CHGK-bot)** AI Telegram bot for group CHGK games  
 **[arbuznik.com](https://www.arbuznik.com/)** Gatsby website  
